@@ -5,4 +5,4 @@ function a(pharase) {
     console.log(pharase)
 };
 
-a(x)
+a(x);
